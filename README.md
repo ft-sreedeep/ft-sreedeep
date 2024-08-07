@@ -2,7 +2,7 @@
 
 <p>
    <a href="https://www.linkedin.com/in/sreedeepek/">Linkedin</a> •
-   <a href=https://huggingface.co/sreedeepEK/">HuggingFace</a> 
+   <a href="https://huggingface.co/sreedeepEK/">HuggingFace</a> 
 </p
 </p>
 
